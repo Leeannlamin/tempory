@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color:rgb(224, 161, 255);
+    font-family: 'Josefin Sans', sans-serif;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 120px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: rgb(95, 244, 232);
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(250, 77, 163);
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(156, 219, 255);
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(252, 154, 254);
+}
+.header_div
+{
+    background: violet;
+    color: rgb(88, 208, 255);
+}
+.header_div p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(244, 86, 189);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:  bold;
+    
+}
